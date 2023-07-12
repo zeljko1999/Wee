@@ -1,1 +1,1 @@
-# Wee
+Simple weather forecast app
